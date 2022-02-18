@@ -4,11 +4,13 @@ The myWallet app is here to help you control your expenses, to avoid surprises a
 
 <img src="src/assets/my-wallet.gif" />
 
+API available at https://api-my--wallet.herokuapp.com/
 Try it out now at https://my-wallet-fronf.vercel.app/
+
 
 ## About
 
-This web application will help you to have greater control of your expenses, as you can register your debts and your credits, and you will always have your updated balance at hand! And don't worry, you have all your extract history saved in a database!. Below are the implemented features:
+This web application will help you to have greater control of your expenses, as you can register your debts and your credits, and you will always have your updated balance at hand! And don't worry, you have all your extract history saved in a database!Below are the implemented features:
 
 - Sign up
 - Log in

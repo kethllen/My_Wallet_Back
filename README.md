@@ -2,7 +2,7 @@
 
 The myWallet app is here to help you control your expenses, to avoid surprises at the end of the month!
 
-<img src="src/assets/my-wallet.gif" />
+<img src="assets/my-wallet.gif" />
 
 API available at https://api-my--wallet.herokuapp.com/
 Try it out now at https://my-wallet-fronf.vercel.app/
